@@ -1,14 +1,14 @@
 # 💫 About Me
 
-AI & Machine Learning Enthusiast | Computer Science Engineering Student
+* 🎓 Computer Science Engineering Student at KLE Technological University
+* 🚀 Passionate about Artificial Intelligence, Machine Learning, NLP, Generative AI, and Software Development
+* 💡 Creator of **QuantumQuery AI** — an NLP-to-SQL platform powered by FLAN-T5 and MySQL
+* 🔬 Published Research Author in Healthcare AI with research on ADHD prediction using Machine Learning
+* 🏆 Secured **2nd Place** in the University Project Exhibition 2026
+* 🧠 Skilled in **Java, Python, SQL, Machine Learning, Deep Learning, DBMS, and Data Structures & Algorithms**
+* 🌱 Currently exploring **LLMs, Transformers, RAG Systems, and Full-Stack AI Applications**
+* 📫 Reach me at: **[karthikshree2004@gmail.com](mailto:karthikshree2004@gmail.com)**
 
-🔹 Creator of QuantumQuery AI (FLAN-T5 + MySQL)
-🔹 Published Research Author in Healthcare AI
-🔹 2nd Place – University Project Exhibition 2026
-🔹 Skilled in Java, Python, SQL, ML, Deep Learning & DBMS
-🔹 Exploring LLMs, RAG Systems & Generative AI
-
-📫 [karthikshree2004@gmail.com](mailto:karthikshree2004@gmail.com)
 
 
 ## 🌐 Socials:
