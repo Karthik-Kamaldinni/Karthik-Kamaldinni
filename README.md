@@ -1,5 +1,14 @@
-# 💫 About Me:
-# Hi 👋, I'm Karthik Kamaldinni<br><br>🎓 Computer Science Engineering Student at KLE Technological University<br><br>🚀 Passionate about Artificial Intelligence, Machine Learning, NLP, Generative AI, and Software Development<br><br>💡 Creator of QuantumQuery AI — an NLP-to-SQL platform powered by FLAN-T5 and MySQL<br><br>🔬 Published Research Author in Healthcare AI with work on ADHD prediction using Machine Learning<br><br>🏆 2nd Place Winner – University Project Exhibition 2026<br><br>🧠 Skilled in Java, Python, SQL, Machine Learning, Deep Learning, DBMS, and Data Structures & Algorithms<br><br>🌱 Currently exploring LLMs, Transformers, RAG Systems, and Full-Stack AI Applications<br><br>📫 Reach me at: **karthikshree2004@gmail.com**
+# 💫 About Me
+
+AI & Machine Learning Enthusiast | Computer Science Engineering Student
+
+🔹 Creator of QuantumQuery AI (FLAN-T5 + MySQL)
+🔹 Published Research Author in Healthcare AI
+🔹 2nd Place – University Project Exhibition 2026
+🔹 Skilled in Java, Python, SQL, ML, Deep Learning & DBMS
+🔹 Exploring LLMs, RAG Systems & Generative AI
+
+📫 [karthikshree2004@gmail.com](mailto:karthikshree2004@gmail.com)
 
 
 ## 🌐 Socials:
